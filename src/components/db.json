@@ -1,0 +1,395 @@
+{
+  "user": [
+    {
+      "id": "c2a5",
+      "email": "aa",
+      "name": "aa",
+      "password": "aa",
+      "menu": [
+        {
+          "foodID": "420695",
+          "name": "Sweet 'n' Sour Tossed Salad",
+          "image": "https://img.spoonacular.com/recipes/420695-556x370.jpg"
+        },
+        {
+          "foodID": "716429",
+          "name": "Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs",
+          "image": "https://img.spoonacular.com/recipes/716429-556x370.jpg"
+        },
+        {
+          "foodID": "352480",
+          "name": "Quick Black Bean Soup",
+          "image": "https://img.spoonacular.com/recipes/352480-556x370.jpg"
+        },
+        {
+          "foodID": "383481",
+          "name": "Layered Lemon Pie",
+          "image": "https://img.spoonacular.com/recipes/383481-556x370.jpg"
+        },
+        {
+          "foodID": "370948",
+          "name": "Gingered Honey Salmon",
+          "image": "https://img.spoonacular.com/recipes/370948-556x370.jpg"
+        },
+        {
+          "foodID": "370964",
+          "name": "Grilled Sausages with Grapes and Cabbage",
+          "image": "https://img.spoonacular.com/recipes/370964-556x370.jpeg"
+        },
+        {
+          "foodID": "247623",
+          "name": "French Strawberry Hazelnut and Creme Patissiere Tart",
+          "image": "https://img.spoonacular.com/recipes/247623-556x370.jpg"
+        },
+        {
+          "foodID": "423331",
+          "name": "Restaurant-Style Pizza",
+          "image": "https://img.spoonacular.com/recipes/423331-556x370.gif"
+        },
+        {
+          "foodID": "227567",
+          "name": "Cucumber-Basil Egg Salad",
+          "image": "https://img.spoonacular.com/recipes/227567-556x370.jpg"
+        },
+        {
+          "foodID": "321356",
+          "name": "Tuna Lasagna Casserole",
+          "image": "https://img.spoonacular.com/recipes/321356-556x370.jpg"
+        },
+        {
+          "foodID": "329280",
+          "name": "Rose Sangria Spritzer",
+          "image": "https://img.spoonacular.com/recipes/329280-556x370.jpeg"
+        },
+        {
+          "foodID": "319645",
+          "name": "Chinese-Style Cheeseburgers",
+          "image": "https://img.spoonacular.com/recipes/319645-556x370.jpg"
+        },
+        {
+          "foodID": "242458",
+          "name": "Parsley, Kale, and Berry Smoothie",
+          "image": "https://img.spoonacular.com/recipes/242458-556x370.jpg"
+        },
+        {
+          "foodID": "251708",
+          "name": "Winter Squash Rolls",
+          "image": "https://img.spoonacular.com/recipes/251708-556x370.jpg"
+        },
+        {
+          "foodID": "251708",
+          "name": "Winter Squash Rolls",
+          "image": "https://img.spoonacular.com/recipes/251708-556x370.jpg"
+        },
+        {
+          "foodID": "345096",
+          "name": "Church-Style Lemon-Roasted Potatoes",
+          "image": "https://img.spoonacular.com/recipes/345096-556x370.jpg"
+        },
+        {
+          "foodID": "401163",
+          "name": "Korean Yaki Mandu",
+          "image": "https://img.spoonacular.com/recipes/401163-556x370.jpeg"
+        },
+        {
+          "foodID": "328617",
+          "name": "Toasted Coconut, Pecan, and Caramel Pie",
+          "image": "https://img.spoonacular.com/recipes/328617-556x370.jpg"
+        },
+        {
+          "foodID": "288505",
+          "name": "Buttermilk Slaw",
+          "image": "https://img.spoonacular.com/recipes/288505-556x370.jpeg"
+        },
+        {
+          "foodID": "352357",
+          "name": "Quick Chilled Pea Soup",
+          "image": "https://img.spoonacular.com/recipes/352357-556x370.jpg"
+        },
+        {
+          "foodID": "340487",
+          "name": "Lobster-Toasted Garlic Quesadillas with Brie Cheese",
+          "image": "https://img.spoonacular.com/recipes/340487-556x370.jpeg"
+        },
+        {
+          "foodID": "426368",
+          "name": "Fruit Kabobs with Dip",
+          "image": "https://img.spoonacular.com/recipes/426368-556x370.jpg"
+        },
+        {
+          "foodID": "716429",
+          "name": "Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs",
+          "image": "https://img.spoonacular.com/recipes/716429-556x370.jpg"
+        }
+      ]
+    },
+    {
+      "id": "b1d1",
+      "email": "tomhoang152@gmail.com",
+      "name": "Hoang",
+      "password": "1234567890$",
+      "menu": [
+        {
+          "foodID": "716429",
+          "name": "Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs",
+          "image": "https://img.spoonacular.com/recipes/716429-556x370.jpg",
+          "note": "Hello WW"
+        }
+      ]
+    },
+    {
+      "id": "e3fa",
+      "email": "aaa@gmail.com",
+      "name": "Hoangg",
+      "password": "12345678$",
+      "menu": [
+        {
+          "foodID": "370301",
+          "name": "Profiteroles",
+          "image": "https://img.spoonacular.com/recipes/370301-556x370.jpeg",
+          "note": "We take note"
+        }
+      ]
+    },
+    {
+      "id": "9d6c",
+      "email": "run@gmail.com",
+      "name": "Run",
+      "password": "12345678$",
+      "menu": [
+        {
+          "foodID": "370964",
+          "name": "Grilled Sausages with Grapes and Cabbage",
+          "image": "https://img.spoonacular.com/recipes/370964-556x370.jpeg",
+          "note": "Hi boys"
+        }
+      ]
+    },
+    {
+      "id": "b129",
+      "email": "fk@gmail.com",
+      "name": "faker",
+      "password": "12345678$",
+      "menu": []
+    }
+  ],
+  "favorites": [
+    {
+      "foodID": "370964",
+      "name": "Grilled Sausages with Grapes and Cabbage",
+      "image": "https://img.spoonacular.com/recipes/370964-556x370.jpeg",
+      "votes": [
+        "aa",
+        "Run"
+      ],
+      "comments": [
+        "A gourmet delight."
+      ],
+      "id": "9954"
+    },
+    {
+      "foodID": "716429",
+      "name": "Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs",
+      "image": "https://img.spoonacular.com/recipes/716429-556x370.jpg",
+      "votes": [
+        "Hoang",
+        "aa",
+        "Hoang",
+        "Hoang",
+        "Hoangg",
+        "Run"
+      ],
+      "comments": [
+        "An explosion of flavors.",
+        "aa",
+        "aasaid: haha",
+        "aa said: aaaa",
+        "aa said: aaa",
+        "Hoang said: aa"
+      ],
+      "id": "aa77"
+    },
+    {
+      "id": "04ea",
+      "foodID": "716429",
+      "name": "Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs",
+      "image": "https://img.spoonacular.com/recipes/716429-556x370.jpg",
+      "votes": [
+        ""
+      ],
+      "comments": [
+        "A taste of heaven."
+      ]
+    },
+    {
+      "votes": [
+        "Hoangg"
+      ],
+      "foodID": "370301",
+      "name": "Profiteroles",
+      "image": "https://img.spoonacular.com/recipes/370301-556x370.jpeg",
+      "comments": [
+        "A taste sensation.",
+        "Hoangg said: Food is good",
+        "faker said: manh khoe"
+      ],
+      "id": "a6ce"
+    },
+    {
+      "id": "0b83",
+      "foodID": "383481",
+      "name": "Layered Lemon Pie",
+      "image": "https://img.spoonacular.com/recipes/383481-556x370.jpg",
+      "votes": [
+        "Run"
+      ],
+      "comments": [
+        "A feast for the senses."
+      ]
+    },
+    {
+      "foodID": "352480",
+      "name": "Quick Black Bean Soup",
+      "image": "https://img.spoonacular.com/recipes/352480-556x370.jpg",
+      "votes": [],
+      "comments": [
+        "The ambrosia of the Olympus"
+      ],
+      "id": "0ab0"
+    }
+  ],
+  "local": [
+    {
+      "foodID": "420695",
+      "name": "Sweet 'n' Sour Tossed Salad",
+      "image": "https://img.spoonacular.com/recipes/420695-556x370.jpg",
+      "id": "7500"
+    },
+    {
+      "foodID": "716429",
+      "name": "Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs",
+      "image": "https://img.spoonacular.com/recipes/716429-556x370.jpg",
+      "id": "d14f"
+    },
+    {
+      "foodID": "352480",
+      "name": "Quick Black Bean Soup",
+      "image": "https://img.spoonacular.com/recipes/352480-556x370.jpg",
+      "id": "f0cc"
+    },
+    {
+      "foodID": "383481",
+      "name": "Layered Lemon Pie",
+      "image": "https://img.spoonacular.com/recipes/383481-556x370.jpg",
+      "id": "3a8f"
+    },
+    {
+      "foodID": "370948",
+      "name": "Gingered Honey Salmon",
+      "image": "https://img.spoonacular.com/recipes/370948-556x370.jpg",
+      "id": "1e0b"
+    },
+    {
+      "foodID": "370964",
+      "name": "Grilled Sausages with Grapes and Cabbage",
+      "image": "https://img.spoonacular.com/recipes/370964-556x370.jpeg",
+      "id": "e21e"
+    },
+    {
+      "foodID": "247623",
+      "name": "French Strawberry Hazelnut and Creme Patissiere Tart",
+      "image": "https://img.spoonacular.com/recipes/247623-556x370.jpg",
+      "id": "c2f3"
+    },
+    {
+      "foodID": "423331",
+      "name": "Restaurant-Style Pizza",
+      "image": "https://img.spoonacular.com/recipes/423331-556x370.gif",
+      "id": "e510"
+    },
+    {
+      "foodID": "227567",
+      "name": "Cucumber-Basil Egg Salad",
+      "image": "https://img.spoonacular.com/recipes/227567-556x370.jpg",
+      "id": "5dfe"
+    },
+    {
+      "foodID": "321356",
+      "name": "Tuna Lasagna Casserole",
+      "image": "https://img.spoonacular.com/recipes/321356-556x370.jpg",
+      "id": "b367"
+    },
+    {
+      "foodID": "329280",
+      "name": "Rose Sangria Spritzer",
+      "image": "https://img.spoonacular.com/recipes/329280-556x370.jpeg",
+      "id": "c547"
+    },
+    {
+      "foodID": "319645",
+      "name": "Chinese-Style Cheeseburgers",
+      "image": "https://img.spoonacular.com/recipes/319645-556x370.jpg",
+      "id": "f0b1"
+    },
+    {
+      "foodID": "242458",
+      "name": "Parsley, Kale, and Berry Smoothie",
+      "image": "https://img.spoonacular.com/recipes/242458-556x370.jpg",
+      "id": "da1f"
+    },
+    {
+      "foodID": "251708",
+      "name": "Winter Squash Rolls",
+      "image": "https://img.spoonacular.com/recipes/251708-556x370.jpg",
+      "id": "3689"
+    },
+    {
+      "foodID": "251708",
+      "name": "Winter Squash Rolls",
+      "image": "https://img.spoonacular.com/recipes/251708-556x370.jpg",
+      "id": "df05"
+    },
+    {
+      "foodID": "345096",
+      "name": "Church-Style Lemon-Roasted Potatoes",
+      "image": "https://img.spoonacular.com/recipes/345096-556x370.jpg",
+      "id": "ad77"
+    },
+    {
+      "foodID": "401163",
+      "name": "Korean Yaki Mandu",
+      "image": "https://img.spoonacular.com/recipes/401163-556x370.jpeg",
+      "id": "9444"
+    },
+    {
+      "foodID": "328617",
+      "name": "Toasted Coconut, Pecan, and Caramel Pie",
+      "image": "https://img.spoonacular.com/recipes/328617-556x370.jpg",
+      "id": "60a0"
+    },
+    {
+      "foodID": "288505",
+      "name": "Buttermilk Slaw",
+      "image": "https://img.spoonacular.com/recipes/288505-556x370.jpeg",
+      "id": "0698"
+    },
+    {
+      "foodID": "352357",
+      "name": "Quick Chilled Pea Soup",
+      "image": "https://img.spoonacular.com/recipes/352357-556x370.jpg",
+      "id": "2673"
+    },
+    {
+      "foodID": "340487",
+      "name": "Lobster-Toasted Garlic Quesadillas with Brie Cheese",
+      "image": "https://img.spoonacular.com/recipes/340487-556x370.jpeg",
+      "id": "8d5c"
+    },
+    {
+      "foodID": "426368",
+      "name": "Fruit Kabobs with Dip",
+      "image": "https://img.spoonacular.com/recipes/426368-556x370.jpg",
+      "id": "4000"
+    }
+  ]
+}
